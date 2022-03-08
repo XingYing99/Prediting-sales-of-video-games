@@ -1,4 +1,4 @@
-# Data-Visualisations
+# Predicting sales of video games
 
 # 1. Case Study Description
 OldKids is a group of avaricious game distributors, and with COVID-19, many people turned to home entertainment such as video games
